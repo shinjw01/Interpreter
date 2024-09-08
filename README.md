@@ -1,3 +1,5 @@
+인터프리터 구현
+사용법 : Sint.java 파일의 main 함수 실행.(아래 구문법, 수식문법을 기준으로 한 언어 S를 위한 인터프리터)
 ![image](https://github.com/user-attachments/assets/f6914f32-50f5-487e-9599-d3c898b5a752)
 ![image](https://github.com/user-attachments/assets/40d30736-54f5-4928-a381-ae6526299748)
 ![image](https://github.com/user-attachments/assets/ff480645-3d8b-4e67-b6a5-f623bc11117e)
